@@ -1,8 +1,0 @@
-1.material ui: it provides independet component.every things is desined with material ui.it has rebuild component.we need to import it
-
-2.axios:-when we get data from brower or api then we import axios and use.
-
-3.preventDefalt():we never reload our fullpage. we reload componants then we use it.
-
-
-
